@@ -1,0 +1,2 @@
+C:\Users\Anna\source\repos\Lab1_memalloc\Debug\Lab1_memalloc.exe
+C:\Users\Anna\source\repos\Lab1_memalloc\Debug\Lab1_memalloc.pdb
